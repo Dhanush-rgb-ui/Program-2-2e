@@ -27,5 +27,5 @@ int main(){
     return 0;
 }
 ```
-## Output:
+## Result:
 <img width="441" height="480" alt="image" src="https://github.com/user-attachments/assets/e0fdeb8e-4180-4f21-9db9-21f9613d3ca9" />
